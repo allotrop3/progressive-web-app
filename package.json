@@ -1,0 +1,22 @@
+{
+  "name": "progressive-web-app",
+  "version": "1.0.0",
+  "description": "Starter repo for a Progressive Web App workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allotrop3/progressive-web-app.git"
+  },
+  "author": "Jason Petersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allotrop3/progressive-web-app/issues"
+  },
+  "homepage": "https://github.com/allotrop3/progressive-web-app#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
